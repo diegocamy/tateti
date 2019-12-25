@@ -1,0 +1,25 @@
+.Celda {
+	border: 1px solid black;
+	margin: 2px;
+	border-radius: 2px;
+	font-family: Helvetica;
+	font-weight: bold;
+	font-size: 4em;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	transition: all 0.3s ease-in-out;
+}
+
+.Celda:hover {
+	cursor: pointer;
+	transform: scale(1.05);
+}
+
+.O {
+	background-color: yellow;
+}
+
+.X {
+	background-color: crimson;
+}
