@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/tateti/static/css/main.0cd24933.chunk.css",
+    "main.js": "/tateti/static/js/main.296a5c0a.chunk.js",
+    "main.js.map": "/tateti/static/js/main.296a5c0a.chunk.js.map",
+    "runtime-main.js": "/tateti/static/js/runtime-main.27c489b0.js",
+    "runtime-main.js.map": "/tateti/static/js/runtime-main.27c489b0.js.map",
+    "static/js/2.98708327.chunk.js": "/tateti/static/js/2.98708327.chunk.js",
+    "static/js/2.98708327.chunk.js.map": "/tateti/static/js/2.98708327.chunk.js.map",
+    "index.html": "/tateti/index.html",
+    "precache-manifest.14036f869d30603aacfa7ece3ef7f885.js": "/tateti/precache-manifest.14036f869d30603aacfa7ece3ef7f885.js",
+    "service-worker.js": "/tateti/service-worker.js",
+    "static/css/main.0cd24933.chunk.css.map": "/tateti/static/css/main.0cd24933.chunk.css.map",
+    "static/js/2.98708327.chunk.js.LICENSE": "/tateti/static/js/2.98708327.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.27c489b0.js",
+    "static/js/2.98708327.chunk.js",
+    "static/css/main.0cd24933.chunk.css",
+    "static/js/main.296a5c0a.chunk.js"
+  ]
+}
